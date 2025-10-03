@@ -1,9 +1,9 @@
 ---
-ID: "3511aa910d00"
-createdAt: "Fri Oct 03 2025 14:47:47 GMT+0900 (日本標準時)"
-updatedAt: "Fri Oct 03 2025 14:47:47 GMT+0900 (日本標準時)"
-title: "最初の記事"
-status: "draft"
+ID: "ac072bc55305"
+createdAt: "Fri Oct 03 2025 14:48:48 GMT+0900 (日本標準時)"
+updatedAt: "Fri Oct 03 2025 14:48:48 GMT+0900 (日本標準時)"
+title: "test"
+status: "publish"
 scheduled: false
 path: "content/news"
 ---
